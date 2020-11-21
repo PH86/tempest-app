@@ -6,7 +6,7 @@ function CardItem (props) {
 return (
     <>
         <li className="cards__item" >
-<a target="_blank" className="cards__item__link" href={props.path}>
+<a target="_blank" className="cards__item__link" href={props.path} rel="noreferrer">
            
                 <figure className="cards__item__pic-wrap" >
                     <img src={props.src} alt="project"

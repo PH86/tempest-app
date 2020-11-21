@@ -1,6 +1,6 @@
 {
-  "homepage": "http://PH86.github.io/tempest-app",
-  "name": "my-portfolio",
+  "homepage": "https://PH86.github.io/tempest-app",
+  "name": "tempest-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

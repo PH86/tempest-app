@@ -19,13 +19,13 @@ function Cards(props) {
               src={Img1}
               text='Winding Application'
              
-              path='/winding'
+              path='/tempest-app/winding'
             />
             <CardItem
               src={Img2}
               text='Forming Application'
              
-              path='/forming'
+              path='/tempest-app/forming'
             />
           
           
@@ -33,7 +33,7 @@ function Cards(props) {
               src={Img3}
               text='Machine Tending'
               
-              path='/tending'
+              path='/tempest-app/tending'
             />
             
            </ul>
